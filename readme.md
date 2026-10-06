@@ -216,7 +216,7 @@ source venv/bin/activate
 ### 5. Установка зависимостей
 
 ```bash
-python -m pip install --upgrade pip python -m pip install -r requirements.txt
+python -m pip install --upgrade pip python -m pip install -r requerements.txt
 ```
 
 ### 6. Создание временной переменной окружения
