@@ -117,7 +117,7 @@ venv\Scripts\activate.bat
 ### 4. Установка зависимостей
 
 ```powershell 
-python -m pip install --upgrade pip python -m pip install -r requirements.txt
+python -m pip install --upgrade pip python -m pip install -r requerements.txt
 ```
 
 ### 5. Создание переменной окружения в PowerShell
